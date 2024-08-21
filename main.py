@@ -1,4 +1,5 @@
-import asyncio
+#!/usr/bin/env python3
+
 import logging
 import spacy
 from spacy.matcher import Matcher
